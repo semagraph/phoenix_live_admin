@@ -1,6 +1,6 @@
 # PhoenixLiveAdmin
 
-**TODO: Add description**
+**WARNING: This is a work in progress, do not use until this message has been removed.**
 
 ## Installation
 
